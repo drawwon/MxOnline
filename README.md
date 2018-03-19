@@ -1,3 +1,3 @@
 # MxOnline
 
-教程地址:http://drawon.site/2018/03/11/python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E8%BF%87%E7%A8%8B-kaggle%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B/
+教程地址:http://drawon.site/2017/12/13/Django%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0/
